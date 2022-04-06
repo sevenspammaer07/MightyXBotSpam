@@ -18,7 +18,7 @@
 
 # Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeingMighty/MightyBotSpamdeploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://camo.githubusercontent.com/2ec146705932ae1b5f12f5d67e0b9797dc09d2a81647be275aff1862a6adc9df/68747470733a2f2f74656c656772612e70682f66696c652f3338656165313662353761306332643033393432332e6a7067)
 
 
 # Support & Updates
